@@ -24,6 +24,11 @@
         "network": "GitHub",
         "username": "weiquanlo",
         "url": "https://github.com/blackdurian"
+      },
+      {
+        "network": "Web CV",
+        "username": "weiquanlo",
+        "url": "blackdurian.github.io/weiquan-resume/"
       }
     ]
   },
@@ -60,9 +65,19 @@
       "summary": "Developed and verified test cases for ATM machines, including designing and executing test scripts to ensure compliance with project requirements"
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Asia Pacific University",
+      "position": "Student Ambassador",
+      "url": "https://www.apu.edu.my",
+      "startDate": "2019-06",
+      "endDate": "2022-01",
+      "summary": "Promoted the university and assisted in organizing events and activities for prospective students."
+    }
+  ],
   "education": [
     {
-  "institution": "Asia Pacific University",
+      "institution": "Asia Pacific University",
       "url": "https://www.apu.edu.my",
       "area": "Software Engineering",
       "studyType": "Bachelors Software Engineering",
@@ -109,6 +124,11 @@
     {
       "name": "Git",
       "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Expert",
       "keywords": ["Version Control", "Collaboration"]
     },
     {
@@ -161,6 +181,14 @@
     {
       "language": "English",
       "fluency": "Native"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "Malay",
+      "fluency": "Intermediate"
     }
   ],
   "projects": [
@@ -199,7 +227,7 @@
     },
         {
       "name": "Others Projects in AmBank Malaysia",
-      "description": "Developed various projects for AmBank SME Business portal",
+      "description": "",
       "isActive": false,
       "highlights": [
         "Removed SMS OTP for system authentication.",
