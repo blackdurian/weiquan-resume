@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
+    "postbuild": "mkdir -p docs && mv dist/* docs/",
     "preview": "astro preview",
     "astro": "astro",
     "check": "npm run check:cv && astro check",
