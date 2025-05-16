@@ -1,7 +1,7 @@
 export interface CV {
   readonly basics?: Basics;
   readonly work?: Work[]
-  readonly volunteer?: Volunteer[];
+  //readonly volunteer?: Volunteer[];
   readonly education?: Education[];
   readonly awards?: Awards[];
   readonly certificates?: Certificates[];
