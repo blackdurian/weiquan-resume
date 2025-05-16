@@ -4,6 +4,8 @@ import { portfolioIcons } from './utils/portfolio-icons.js';
 
 // https://astro.build/config
 export default defineConfig({
+    site: 'https://blackdurian.github.io',
+    base: 'weiquan-resume',
     integrations: [
         icon({
             include: portfolioIcons,
